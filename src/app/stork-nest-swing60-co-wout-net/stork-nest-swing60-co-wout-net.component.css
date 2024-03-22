@@ -1,0 +1,135 @@
+.container {
+    height:640px;
+    
+}
+
+.container .left-container {
+    border: 1px solid black;
+    height:620px;
+    width:1200px;
+    float:left;
+    padding: 5px;
+}
+.container .left-container .main-subcontainer {
+    border: 1px solid black;
+    height:615px;
+    width:700px;
+    float:left;
+}
+
+.container .left-container .main-subcontainer .main-subcont-image {
+    border: 1px solid black;
+    height: 510px;
+    width: 695px;
+    float:left;
+}
+
+.container .left-container .main-subcontainer .main-subcont-image img {
+    border: 1px solid black;
+    height: 510px;
+    width: 695px;
+
+}
+.container .left-container .main-subcontainer .main-subcont-desc {
+    border: 1px solid black;
+    height:100px;
+    width:695px;
+    float:left;
+}
+
+.container .left-container .main-subcontainer .main-subcont-desc h3 {
+    text-align: center;
+}
+
+.container .left-container .main-subcontainer .main-subcont-desc p {
+    margin-left: 450px;
+}
+.container .left-container .right-subcontainer {
+    border: 1px solid black;
+    height:615px;
+    width: 485px;
+    float:left;
+}
+
+.container .right-container .similar-productsone{
+    border: 1px solid blue;
+    height:210px;
+    width:210px;
+    float:left;
+    margin-top: 4px;
+    margin-left:70px;
+}
+
+.container .right-container .similar-productsone img {
+
+    height:200px;
+    width:200px;
+    margin:5px;
+}
+
+.container .right-container .similar-productstwo {
+    border: 1px solid blue;
+    height:210px;
+    width:210px;
+    float:left;
+    margin-top:4px;
+    margin-left: 40px;
+}
+
+.container .right-container .similar-productstwo img {
+    height:200px;
+    width:200px;
+    margin:5px;
+}
+
+.container .right-container .similar-productsthree {
+    border: 1px solid blue;
+    height:210px;
+    width:210px;
+    float:left;
+    margin-top: 77px;
+    margin-left:70px;
+}
+
+.container .right-container .similar-productsthree img {
+    height:200px;
+    width:200px;
+    margin:5px;
+}
+
+.container .right-container .similar-productsfour {
+    border: 1px solid blue;
+    height:210px;
+    width:210px;
+    float:left;
+    margin-top: 77px;
+    margin-left: 40px;
+}
+
+.container .right-container .similar-productsfour img {
+    height:200px;
+    width:200px;
+    margin:5px;
+}
+
+
+.container .left-container .right-subcontainer h3 {
+    text-align: center;
+}
+.container .right-container {
+    border: 1px solid black;
+    height:620px;
+    width:600px;
+    float:left;
+    padding:5px;
+}
+
+.container .right-container h3 {
+    text-align: center;
+}
+
+#footer-text #footer-h2{
+    float:right;
+    margin-right: 500px;
+
+}

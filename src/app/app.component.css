@@ -1,0 +1,18 @@
+.container{
+    height:650px;
+}
+header {
+    
+    height:100px;
+    text-align: center;
+}
+header h1 {
+    color:rgb(165, 224, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+}
+
+footer{
+    height:70px;
+    border: 2px solid blue;
+}
