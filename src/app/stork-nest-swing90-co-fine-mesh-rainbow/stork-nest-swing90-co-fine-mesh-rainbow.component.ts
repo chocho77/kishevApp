@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-stork-nest-swing90-co-fine-mesh-rainbow',
   standalone: true,
-  imports: [],
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './stork-nest-swing90-co-fine-mesh-rainbow.component.html',
   styleUrl: './stork-nest-swing90-co-fine-mesh-rainbow.component.css'
 })

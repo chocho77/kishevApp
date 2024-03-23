@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-stork-nest-swing90-co-wout-net',
   standalone: true,
-  imports: [],
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './stork-nest-swing90-co-wout-net.component.html',
   styleUrl: './stork-nest-swing90-co-wout-net.component.css'
 })
