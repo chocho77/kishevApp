@@ -1,12 +1,14 @@
 *{
     box-sizing: border-box;
 }
+
 .container {
     height:640px;
+    width:550px;
 }
 .container .swings{
     height:380px;
-    width:250px;
+    width:300px;
     float:left;
     margin-left:400px;
     margin-top:200px;
@@ -27,7 +29,7 @@
 
 .container .consumable{
     height:380px;
-    width:250px;
+    width:300px;
     float:left;
     margin-left:380px;
     margin-top:200px;
