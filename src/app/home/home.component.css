@@ -4,13 +4,13 @@
 
 .container {
     height:640px;
-    width:550px;
+    width:600px;
 }
 .container .swings{
     height:380px;
-    width:300px;
+    width:250px;
     float:left;
-    margin-left:400px;
+    margin-left:390px;
     margin-top:200px;
     margin-right:300px;
     padding:20px;
@@ -29,11 +29,11 @@
 
 .container .consumable{
     height:380px;
-    width:300px;
+    width:250px;
     float:left;
     margin-left:380px;
     margin-top:200px;
-    margin-right:300px;
+    margin-right:290px;
     padding:20px;
 }
 
